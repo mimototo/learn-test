@@ -1,4 +1,4 @@
-import { authOptions } from "@/lib/nextauth";
+import { authOptions } from "@/lib/auth";
 import NextAuth from "next-auth/next";
 
 // NextAuthハンドラーを作成
